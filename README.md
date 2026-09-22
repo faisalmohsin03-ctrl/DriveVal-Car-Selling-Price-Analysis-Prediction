@@ -15,7 +15,7 @@ DriveVal is an end-to-end data analytics and machine learning project built on a
 
 | Property | Detail |
 |---|---|
-| **File** | [`Car Sell Dataset.csv`](https://www.kaggle.com/datasets/milapgohil/car-dataset) |
+| **File** | `Car Sell Dataset.csv` | [Kaggle Dataset](https://www.kaggle.com/datasets/milapgohil/car-dataset) |
 | **Rows** | ~140,904 listings |
 | **Columns** | 12 |
 | **Target Variable** | `Price` (INR) |
